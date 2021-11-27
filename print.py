@@ -16,3 +16,4 @@ print(lst)
 
 if (lst[1]>23):
     print("greater than 23")
+    print("greater than 21")
